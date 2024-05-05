@@ -28,7 +28,7 @@ To start the game press 'space'. To pause the game press 'space' when the game i
 - Move the paddle up using 'up arrow'
 - Move the paddle down using the 'down arrow'
 
-##Note: By default, an AI will control the right paddle (Player 2)!
+#Note: By default, an AI will control the right paddle (Player 2)!
 - To toggle two players, press '2'
 - To toggle the AI, press '1'
 
