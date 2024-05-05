@@ -32,7 +32,7 @@ To start the game press 'space'. To pause the game press 'space' when the game i
 - To toggle two players, press '2'
 - To toggle the AI, press '1'
 
-To restart the game press 'r'
-To quit the game press 'escape'
+- To restart the game press 'r'
+- To quit the game press 'escape'
 
 I hope you enjoy!
