@@ -13,3 +13,5 @@ To play Pong Game, you need to have Love2D installed on your system. You can dow
 Once Love2D is installed, follow these steps to run the game:
 
 1. Clone this repository to your local machine:
+2. Navigate to the cloned repository folder
+3. Run the game using Love2D (if on Mac, drag and drop the downloaded folder of the pong game into the love application for the game to run)
