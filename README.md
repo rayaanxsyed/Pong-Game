@@ -20,11 +20,11 @@ Once Love2D is installed, follow these steps to run the game:
 
 To start the game press 'space'. To pause the game press 'space' when the game is in play.
 
-<u> Player 1 (Left Side) </u>
+<u>Player 1 (Left Side)</u>
 - Move the paddle up using 'w'
 - Move the paddle down using 's'
 
-<u> Player 2 (Right Side) </u>
+<u>Player 2 (Right Side)</u>
 - Move the paddle up using 'up arrow'
 - Move the paddle down using the 'down arrow'
 
